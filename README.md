@@ -1,11 +1,13 @@
 ```
 # CodeXFlow
 ```
-BPUT hackathon ... resources here
-
-
-PS-07: 5-Member Team Roles & Development Roadmap:  https://chatgpt.com/s/t_6aa51b04dcb481919b0e190acc36cb8e
-
 
 hi everyone
+
+BPUT hackathon ... resources here
+
+```
+PS-07: 5-Member Team Roles & Development Roadmap:  https://chatgpt.com/s/t_6aa51b04dcb481919b0e190acc36cb8e
+```
+
 
