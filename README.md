@@ -14,3 +14,5 @@ BPUT hackathon ... resources here
 - [code with harry notes & cheatsheets](https://www.codewithharry.com/notes) 
 
 - [HACKATHON REPOS](https://github.com/topics/hackathons)
+
+- [fmhy](https://fmhy.net/ai) is a massive, user-curated list of safe links for finding free digital content online. You can use ai models for free.
