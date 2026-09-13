@@ -4,7 +4,7 @@
 
 hi everyone!!
 
-BPUT hackathon ... resources here
+# BPUT hackathon ... resources here
 
 
 - PS-07:  Team Roles & Development Roadmap:  https://chatgpt.com/s/t_6aa51b04dcb481919b0e190acc36cb8e
