@@ -17,4 +17,4 @@ hi everyone!!
 
 - [fmhy](https://fmhy.net/ai) is a massive, user-curated list of safe links for finding free digital content online. You can use ai models for free.
 
-- [threeui](https://threeui.com/browse) Browse copy-ready Three.js components, complete website templates, WebGL backgrounds, hero sections, UI effects, and source-backed variants.
+- [threeui](https://threeui.com/browse) : Browse copy-ready Three.js components, complete website templates, WebGL backgrounds, hero sections, UI effects, and source-backed variants.
