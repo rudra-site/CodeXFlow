@@ -25,6 +25,6 @@ hi everyone!!
 
 - [gpt 6 astra](https://kie.ai/market) : u know it
 
-- [gpt 6 astra](https://tasklet.ai/agents/ws_0jfrdfs7eqw3h8cagd36) : u know it
+- [gpt 6 astra](https://tasklet.ai/agents/ws_0jfrdfs7eqw3h8cagd36) : u know it (#)
 
 - [openalternative](https://openalternative.co/) paid models for free
