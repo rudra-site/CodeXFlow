@@ -22,3 +22,7 @@ hi everyone!!
 - [gemini notebook](https://notebook.google/) : For research purposes
 
 - [yupp.ai](https://yupp.ai/) : For ai models
+
+- [gpt 6 astra](https://kie.ai/market) : u know it
+
+- 
