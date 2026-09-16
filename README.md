@@ -21,4 +21,4 @@ hi everyone!!
 
 - [gemini notebook](https://notebook.google/) : For research purposes
 
-- 
+- [yupp.ai](https://yupp.ai/) : For ai models
