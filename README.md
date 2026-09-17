@@ -23,6 +23,8 @@ hi everyone!!
 
 - [yupp.ai](https://yupp.ai/) : For ai models
 
+- [django beginner projects](https://github.com/ianshulx/Django-Projects-for-beginners) 
+
 - [gpt 6 astra](https://kie.ai/market) : u know it
 
 - [gpt 6 astra](https://tasklet.ai/agents/ws_0jfrdfs7eqw3h8cagd36) : u know it (#)
