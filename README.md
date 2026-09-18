@@ -9,7 +9,7 @@ hi everyone!!
 
 - PS-07:  Team Roles & Development Roadmap:  https://chatgpt.com/s/t_6aa51b04dcb481919b0e190acc36cb8e
 
-- [GodMod3.ai](https://godmod3.ai/) is an open-source, multi-model AI platform for comparing AI responses, experimenting with AI agents, and exploring uncensored AI              capabilities.
+- [GodMod3.ai](https://godmod3.ai/) is an open-source, multi-model AI platform for comparing AI responses, experimenting with AI agents, and exploring uncensored AI capabilities.
 
 - [code with harry notes & cheatsheets](https://www.codewithharry.com/notes) 
 
@@ -34,3 +34,5 @@ hi everyone!!
 - [openalternative](https://openalternative.co/) paid models for free
 
 - [google doc file bput hackathon personwise worksheet](https://docs.google.com/document/d/1hu1ty5i_CNTxCWHKk1UCDBJTqGQjFMadXHGLCqx1xHc/edit?usp=sharing)
+
+- [django handbook by gemini notebook](https://notebook.google.com/notebook/510c08cd-f04a-46d9-a6ed-b624f019335b)
