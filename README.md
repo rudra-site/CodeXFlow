@@ -23,7 +23,9 @@ hi everyone!!
 
 - [yupp.ai](https://yupp.ai/) : For ai models
 
-- [django beginner projects](https://github.com/ianshulx/Django-Projects-for-beginners) 
+- [django beginner projects](https://github.com/ianshulx/Django-Projects-for-beginners)
+
+- [app with ai - hatchable](https://hatchable.com/)
 
 - [gpt 6 astra](https://kie.ai/market) : u know it
 
