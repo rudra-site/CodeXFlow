@@ -32,3 +32,5 @@ hi everyone!!
 - [gpt 6 astra](https://tasklet.ai/agents/ws_0jfrdfs7eqw3h8cagd36) : u know it (#)
 
 - [openalternative](https://openalternative.co/) paid models for free
+
+- [google doc file bput hackathon personwise worksheet](https://docs.google.com/document/d/1hu1ty5i_CNTxCWHKk1UCDBJTqGQjFMadXHGLCqx1xHc/edit?usp=sharing)
