@@ -36,3 +36,7 @@ hi everyone!!
 - [google doc file bput hackathon personwise worksheet](https://docs.google.com/document/d/1hu1ty5i_CNTxCWHKk1UCDBJTqGQjFMadXHGLCqx1xHc/edit?usp=sharing)
 
 - [django handbook by gemini notebook](https://notebook.google.com/notebook/510c08cd-f04a-46d9-a6ed-b624f019335b)
+
+- [flowgpt](https://flowgpt.com/) for all type of ai tools u need
+
+- 
