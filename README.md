@@ -40,3 +40,5 @@ hi everyone!!
 - [flowgpt](https://flowgpt.com/) for all type of ai tools u need
 
 - [bytez](https://bytez.com/) for ai models
+
+- [github url tricks](https://drive.google.com/file/d/18iomFwji0fhIt2ruMLDt5auXjcGrMirt/view?usp=sharing)
