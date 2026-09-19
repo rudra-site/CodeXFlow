@@ -39,4 +39,4 @@ hi everyone!!
 
 - [flowgpt](https://flowgpt.com/) for all type of ai tools u need
 
-- 
+- [bytez](https://bytez.com/) for ai models
