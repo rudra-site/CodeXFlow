@@ -45,4 +45,4 @@
 
 - [genspark](https://www.genspark.ai/) - research purpose ai
   
-- [atria](https://api.atria-asi.ai/) - for api, model id, base url
+- [atria](https://api.atria-asi.ai/) - for api
