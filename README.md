@@ -43,8 +43,10 @@
 
 - [github url tricks](https://drive.google.com/file/d/18iomFwji0fhIt2ruMLDt5auXjcGrMirt/view?usp=sharing)
 
+- [github](https://github.com/rudra-site/CodeXFlow/) , [deepwiki](https://deepwiki.com/rudra-site/CodeXFlow/) - github to deepwiki ... want ai written docs ? use deepwiki.com instead of github.com in a repo pg
+
 - [genspark](https://www.genspark.ai/) - research purpose ai
   
 - [atria](https://api.atria-asi.ai/) - for api
 
-- [github](https://github.com/rudra-site/CodeXFlow/) , [deepwiki](https://deepwiki.com/rudra-site/CodeXFlow/) - github to deepwiki ... deep
+
