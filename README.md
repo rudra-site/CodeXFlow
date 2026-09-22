@@ -2,8 +2,6 @@
 # CodeXFlow
 ```
 
-
-
 *hi everyone!!*
 
 # BPUT hackathon ... resources here
