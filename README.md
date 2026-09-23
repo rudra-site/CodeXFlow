@@ -50,3 +50,5 @@
 - [atria](https://api.atria-asi.ai/) - for api
 
 - [geekwrite](https://geekwrite.com/) - for humanizing a text or paragraph
+
+- [quickref.me](https://quickref.me/) - provides cheat codes for ai tools, programming languages, ai chatbots, softwares...
