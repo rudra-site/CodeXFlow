@@ -52,3 +52,5 @@
 - [geekwrite](https://geekwrite.com/) - for humanizing a text or paragraph
 
 - [quickref.me](https://quickref.me/) - provides cheat codes for ai tools, programming languages, ai chatbots, softwares...
+
+- [yila.ai](https://yila.ai/) - better slides by this ai
