@@ -54,3 +54,7 @@
 - [quickref.me](https://quickref.me/) - provides cheat codes for ai tools, programming languages, ai chatbots, softwares...
 
 - [yila.ai](https://yila.ai/) - AI slides maker
+
+- [omnitools.app](https://omnitools.app/) - Tools u need
+
+- 
