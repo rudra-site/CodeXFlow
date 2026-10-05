@@ -57,4 +57,6 @@
 
 - [omnitools.app](https://omnitools.app/) - Tools u need
 
-- [duck.ai](https://duck.ai/) - GPT-5.6 Luna, GPT-5.4 mini, Claude Haiku 4.5, Mistral Small 4, gpt-oss 120B, Gemma 4 31B 
+- [duck.ai](https://duck.ai/) - GPT-5.6 Luna, GPT-5.4 mini, Claude Haiku 4.5, Mistral Small 4, gpt-oss 120B, Gemma 4 31B
+
+- [perfect notes](https://perfectnotes.org/) - find notes here
